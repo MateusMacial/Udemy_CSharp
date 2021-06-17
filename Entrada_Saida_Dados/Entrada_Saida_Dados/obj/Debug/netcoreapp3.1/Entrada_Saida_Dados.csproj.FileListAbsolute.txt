@@ -1,0 +1,13 @@
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Entrada_Saida_Dados\Entrada_Saida_Dados\bin\Debug\netcoreapp3.1\Entrada_Saida_Dados.exe
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Entrada_Saida_Dados\Entrada_Saida_Dados\bin\Debug\netcoreapp3.1\Entrada_Saida_Dados.deps.json
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Entrada_Saida_Dados\Entrada_Saida_Dados\bin\Debug\netcoreapp3.1\Entrada_Saida_Dados.runtimeconfig.json
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Entrada_Saida_Dados\Entrada_Saida_Dados\bin\Debug\netcoreapp3.1\Entrada_Saida_Dados.runtimeconfig.dev.json
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Entrada_Saida_Dados\Entrada_Saida_Dados\bin\Debug\netcoreapp3.1\Entrada_Saida_Dados.dll
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Entrada_Saida_Dados\Entrada_Saida_Dados\bin\Debug\netcoreapp3.1\Entrada_Saida_Dados.pdb
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Entrada_Saida_Dados\Entrada_Saida_Dados\obj\Debug\netcoreapp3.1\Entrada_Saida_Dados.csprojAssemblyReference.cache
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Entrada_Saida_Dados\Entrada_Saida_Dados\obj\Debug\netcoreapp3.1\Entrada_Saida_Dados.AssemblyInfoInputs.cache
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Entrada_Saida_Dados\Entrada_Saida_Dados\obj\Debug\netcoreapp3.1\Entrada_Saida_Dados.AssemblyInfo.cs
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Entrada_Saida_Dados\Entrada_Saida_Dados\obj\Debug\netcoreapp3.1\Entrada_Saida_Dados.csproj.CoreCompileInputs.cache
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Entrada_Saida_Dados\Entrada_Saida_Dados\obj\Debug\netcoreapp3.1\Entrada_Saida_Dados.dll
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Entrada_Saida_Dados\Entrada_Saida_Dados\obj\Debug\netcoreapp3.1\Entrada_Saida_Dados.pdb
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Entrada_Saida_Dados\Entrada_Saida_Dados\obj\Debug\netcoreapp3.1\Entrada_Saida_Dados.genruntimeconfig.cache

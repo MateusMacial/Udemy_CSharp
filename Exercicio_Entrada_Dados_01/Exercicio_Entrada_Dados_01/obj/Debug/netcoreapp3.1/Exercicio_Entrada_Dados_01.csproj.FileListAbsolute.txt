@@ -1,0 +1,13 @@
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Exercicio_Entrada_Dados_01\Exercicio_Entrada_Dados_01\bin\Debug\netcoreapp3.1\Exercicio_Entrada_Dados_01.exe
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Exercicio_Entrada_Dados_01\Exercicio_Entrada_Dados_01\bin\Debug\netcoreapp3.1\Exercicio_Entrada_Dados_01.deps.json
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Exercicio_Entrada_Dados_01\Exercicio_Entrada_Dados_01\bin\Debug\netcoreapp3.1\Exercicio_Entrada_Dados_01.runtimeconfig.json
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Exercicio_Entrada_Dados_01\Exercicio_Entrada_Dados_01\bin\Debug\netcoreapp3.1\Exercicio_Entrada_Dados_01.runtimeconfig.dev.json
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Exercicio_Entrada_Dados_01\Exercicio_Entrada_Dados_01\bin\Debug\netcoreapp3.1\Exercicio_Entrada_Dados_01.dll
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Exercicio_Entrada_Dados_01\Exercicio_Entrada_Dados_01\bin\Debug\netcoreapp3.1\Exercicio_Entrada_Dados_01.pdb
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Exercicio_Entrada_Dados_01\Exercicio_Entrada_Dados_01\obj\Debug\netcoreapp3.1\Exercicio_Entrada_Dados_01.csprojAssemblyReference.cache
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Exercicio_Entrada_Dados_01\Exercicio_Entrada_Dados_01\obj\Debug\netcoreapp3.1\Exercicio_Entrada_Dados_01.AssemblyInfoInputs.cache
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Exercicio_Entrada_Dados_01\Exercicio_Entrada_Dados_01\obj\Debug\netcoreapp3.1\Exercicio_Entrada_Dados_01.AssemblyInfo.cs
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Exercicio_Entrada_Dados_01\Exercicio_Entrada_Dados_01\obj\Debug\netcoreapp3.1\Exercicio_Entrada_Dados_01.csproj.CoreCompileInputs.cache
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Exercicio_Entrada_Dados_01\Exercicio_Entrada_Dados_01\obj\Debug\netcoreapp3.1\Exercicio_Entrada_Dados_01.dll
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Exercicio_Entrada_Dados_01\Exercicio_Entrada_Dados_01\obj\Debug\netcoreapp3.1\Exercicio_Entrada_Dados_01.pdb
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Exercicio_Entrada_Dados_01\Exercicio_Entrada_Dados_01\obj\Debug\netcoreapp3.1\Exercicio_Entrada_Dados_01.genruntimeconfig.cache
