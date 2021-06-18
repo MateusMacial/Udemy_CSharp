@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Praticando_Classe_Metodos/1.0.0": {
+        "runtime": {
+          "Praticando_Classe_Metodos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Praticando_Classe_Metodos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

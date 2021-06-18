@@ -1,0 +1,13 @@
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Praticando_Classe_Metodos\Praticando_Classe_Metodos\bin\Debug\netcoreapp3.1\Praticando_Classe_Metodos.exe
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Praticando_Classe_Metodos\Praticando_Classe_Metodos\bin\Debug\netcoreapp3.1\Praticando_Classe_Metodos.deps.json
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Praticando_Classe_Metodos\Praticando_Classe_Metodos\bin\Debug\netcoreapp3.1\Praticando_Classe_Metodos.runtimeconfig.json
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Praticando_Classe_Metodos\Praticando_Classe_Metodos\bin\Debug\netcoreapp3.1\Praticando_Classe_Metodos.runtimeconfig.dev.json
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Praticando_Classe_Metodos\Praticando_Classe_Metodos\bin\Debug\netcoreapp3.1\Praticando_Classe_Metodos.dll
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Praticando_Classe_Metodos\Praticando_Classe_Metodos\bin\Debug\netcoreapp3.1\Praticando_Classe_Metodos.pdb
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Praticando_Classe_Metodos\Praticando_Classe_Metodos\obj\Debug\netcoreapp3.1\Praticando_Classe_Metodos.csprojAssemblyReference.cache
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Praticando_Classe_Metodos\Praticando_Classe_Metodos\obj\Debug\netcoreapp3.1\Praticando_Classe_Metodos.AssemblyInfoInputs.cache
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Praticando_Classe_Metodos\Praticando_Classe_Metodos\obj\Debug\netcoreapp3.1\Praticando_Classe_Metodos.AssemblyInfo.cs
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Praticando_Classe_Metodos\Praticando_Classe_Metodos\obj\Debug\netcoreapp3.1\Praticando_Classe_Metodos.csproj.CoreCompileInputs.cache
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Praticando_Classe_Metodos\Praticando_Classe_Metodos\obj\Debug\netcoreapp3.1\Praticando_Classe_Metodos.dll
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Praticando_Classe_Metodos\Praticando_Classe_Metodos\obj\Debug\netcoreapp3.1\Praticando_Classe_Metodos.pdb
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Praticando_Classe_Metodos\Praticando_Classe_Metodos\obj\Debug\netcoreapp3.1\Praticando_Classe_Metodos.genruntimeconfig.cache

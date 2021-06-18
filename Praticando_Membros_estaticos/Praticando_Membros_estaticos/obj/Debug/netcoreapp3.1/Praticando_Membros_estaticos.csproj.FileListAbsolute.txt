@@ -1,0 +1,13 @@
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Praticando_Membros_estaticos\Praticando_Membros_estaticos\bin\Debug\netcoreapp3.1\Praticando_Membros_estaticos.exe
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Praticando_Membros_estaticos\Praticando_Membros_estaticos\bin\Debug\netcoreapp3.1\Praticando_Membros_estaticos.deps.json
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Praticando_Membros_estaticos\Praticando_Membros_estaticos\bin\Debug\netcoreapp3.1\Praticando_Membros_estaticos.runtimeconfig.json
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Praticando_Membros_estaticos\Praticando_Membros_estaticos\bin\Debug\netcoreapp3.1\Praticando_Membros_estaticos.runtimeconfig.dev.json
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Praticando_Membros_estaticos\Praticando_Membros_estaticos\bin\Debug\netcoreapp3.1\Praticando_Membros_estaticos.dll
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Praticando_Membros_estaticos\Praticando_Membros_estaticos\bin\Debug\netcoreapp3.1\Praticando_Membros_estaticos.pdb
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Praticando_Membros_estaticos\Praticando_Membros_estaticos\obj\Debug\netcoreapp3.1\Praticando_Membros_estaticos.csprojAssemblyReference.cache
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Praticando_Membros_estaticos\Praticando_Membros_estaticos\obj\Debug\netcoreapp3.1\Praticando_Membros_estaticos.AssemblyInfoInputs.cache
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Praticando_Membros_estaticos\Praticando_Membros_estaticos\obj\Debug\netcoreapp3.1\Praticando_Membros_estaticos.AssemblyInfo.cs
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Praticando_Membros_estaticos\Praticando_Membros_estaticos\obj\Debug\netcoreapp3.1\Praticando_Membros_estaticos.csproj.CoreCompileInputs.cache
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Praticando_Membros_estaticos\Praticando_Membros_estaticos\obj\Debug\netcoreapp3.1\Praticando_Membros_estaticos.dll
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Praticando_Membros_estaticos\Praticando_Membros_estaticos\obj\Debug\netcoreapp3.1\Praticando_Membros_estaticos.pdb
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Praticando_Membros_estaticos\Praticando_Membros_estaticos\obj\Debug\netcoreapp3.1\Praticando_Membros_estaticos.genruntimeconfig.cache
