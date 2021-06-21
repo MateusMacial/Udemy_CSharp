@@ -1,0 +1,13 @@
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.exe
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.deps.json
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.runtimeconfig.json
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.runtimeconfig.dev.json
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.dll
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.pdb
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.csprojAssemblyReference.cache
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.AssemblyInfoInputs.cache
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.AssemblyInfo.cs
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.csproj.CoreCompileInputs.cache
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.dll
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.pdb
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.genruntimeconfig.cache

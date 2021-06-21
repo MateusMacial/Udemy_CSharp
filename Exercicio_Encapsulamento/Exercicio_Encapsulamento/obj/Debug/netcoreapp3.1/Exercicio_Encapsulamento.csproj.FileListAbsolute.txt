@@ -1,0 +1,13 @@
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Exercicio_Encapsulamento\Exercicio_Encapsulamento\bin\Debug\netcoreapp3.1\Exercicio_Encapsulamento.exe
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Exercicio_Encapsulamento\Exercicio_Encapsulamento\bin\Debug\netcoreapp3.1\Exercicio_Encapsulamento.deps.json
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Exercicio_Encapsulamento\Exercicio_Encapsulamento\bin\Debug\netcoreapp3.1\Exercicio_Encapsulamento.runtimeconfig.json
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Exercicio_Encapsulamento\Exercicio_Encapsulamento\bin\Debug\netcoreapp3.1\Exercicio_Encapsulamento.runtimeconfig.dev.json
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Exercicio_Encapsulamento\Exercicio_Encapsulamento\bin\Debug\netcoreapp3.1\Exercicio_Encapsulamento.dll
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Exercicio_Encapsulamento\Exercicio_Encapsulamento\bin\Debug\netcoreapp3.1\Exercicio_Encapsulamento.pdb
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Exercicio_Encapsulamento\Exercicio_Encapsulamento\obj\Debug\netcoreapp3.1\Exercicio_Encapsulamento.csprojAssemblyReference.cache
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Exercicio_Encapsulamento\Exercicio_Encapsulamento\obj\Debug\netcoreapp3.1\Exercicio_Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Exercicio_Encapsulamento\Exercicio_Encapsulamento\obj\Debug\netcoreapp3.1\Exercicio_Encapsulamento.AssemblyInfo.cs
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Exercicio_Encapsulamento\Exercicio_Encapsulamento\obj\Debug\netcoreapp3.1\Exercicio_Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Exercicio_Encapsulamento\Exercicio_Encapsulamento\obj\Debug\netcoreapp3.1\Exercicio_Encapsulamento.dll
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Exercicio_Encapsulamento\Exercicio_Encapsulamento\obj\Debug\netcoreapp3.1\Exercicio_Encapsulamento.pdb
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Exercicio_Encapsulamento\Exercicio_Encapsulamento\obj\Debug\netcoreapp3.1\Exercicio_Encapsulamento.genruntimeconfig.cache
