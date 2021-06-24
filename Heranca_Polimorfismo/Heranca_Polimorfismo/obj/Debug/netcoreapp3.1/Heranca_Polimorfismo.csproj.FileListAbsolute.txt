@@ -1,0 +1,13 @@
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Heranca_Polimorfismo\Heranca_Polimorfismo\bin\Debug\netcoreapp3.1\Heranca_Polimorfismo.exe
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Heranca_Polimorfismo\Heranca_Polimorfismo\bin\Debug\netcoreapp3.1\Heranca_Polimorfismo.deps.json
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Heranca_Polimorfismo\Heranca_Polimorfismo\bin\Debug\netcoreapp3.1\Heranca_Polimorfismo.runtimeconfig.json
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Heranca_Polimorfismo\Heranca_Polimorfismo\bin\Debug\netcoreapp3.1\Heranca_Polimorfismo.runtimeconfig.dev.json
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Heranca_Polimorfismo\Heranca_Polimorfismo\bin\Debug\netcoreapp3.1\Heranca_Polimorfismo.dll
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Heranca_Polimorfismo\Heranca_Polimorfismo\bin\Debug\netcoreapp3.1\Heranca_Polimorfismo.pdb
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Heranca_Polimorfismo\Heranca_Polimorfismo\obj\Debug\netcoreapp3.1\Heranca_Polimorfismo.csprojAssemblyReference.cache
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Heranca_Polimorfismo\Heranca_Polimorfismo\obj\Debug\netcoreapp3.1\Heranca_Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Heranca_Polimorfismo\Heranca_Polimorfismo\obj\Debug\netcoreapp3.1\Heranca_Polimorfismo.AssemblyInfo.cs
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Heranca_Polimorfismo\Heranca_Polimorfismo\obj\Debug\netcoreapp3.1\Heranca_Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Heranca_Polimorfismo\Heranca_Polimorfismo\obj\Debug\netcoreapp3.1\Heranca_Polimorfismo.dll
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Heranca_Polimorfismo\Heranca_Polimorfismo\obj\Debug\netcoreapp3.1\Heranca_Polimorfismo.pdb
+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_C#\ws_vs2019\Heranca_Polimorfismo\Heranca_Polimorfismo\obj\Debug\netcoreapp3.1\Heranca_Polimorfismo.genruntimeconfig.cache
