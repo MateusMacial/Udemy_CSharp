@@ -19,7 +19,7 @@ namespace Composicao
             Console.Write("Level (Junior/MidLevel/Senior): ");
             WorkerLevel workerLevel = Enum.Parse<WorkerLevel>(Console.ReadLine());
             Console.Write("Base salary: ");
-            double workerBaseSalary = double.Parse(Console.ReadLine());
+            double workerBaseSalary = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Department dept = new Department(depName);
             Worker worker = new Worker(workerName, workerLevel, workerBaseSalary, dept);
