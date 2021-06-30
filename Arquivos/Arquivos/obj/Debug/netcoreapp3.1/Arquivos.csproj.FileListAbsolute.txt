@@ -1,0 +1,13 @@
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\Arquivos\Arquivos\bin\Debug\netcoreapp3.1\Arquivos.exe
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\Arquivos\Arquivos\bin\Debug\netcoreapp3.1\Arquivos.deps.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\Arquivos\Arquivos\bin\Debug\netcoreapp3.1\Arquivos.runtimeconfig.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\Arquivos\Arquivos\bin\Debug\netcoreapp3.1\Arquivos.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\Arquivos\Arquivos\bin\Debug\netcoreapp3.1\Arquivos.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\Arquivos\Arquivos\bin\Debug\netcoreapp3.1\Arquivos.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\Arquivos\Arquivos\obj\Debug\netcoreapp3.1\Arquivos.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\Arquivos\Arquivos\obj\Debug\netcoreapp3.1\Arquivos.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\Arquivos\Arquivos\obj\Debug\netcoreapp3.1\Arquivos.AssemblyInfo.cs
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\Arquivos\Arquivos\obj\Debug\netcoreapp3.1\Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\Arquivos\Arquivos\obj\Debug\netcoreapp3.1\Arquivos.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\Arquivos\Arquivos\obj\Debug\netcoreapp3.1\Arquivos.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\Arquivos\Arquivos\obj\Debug\netcoreapp3.1\Arquivos.genruntimeconfig.cache
