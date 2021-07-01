@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praticando_Classes_06_Increase_Payment", "Praticando_Classes_06_Increase_Payment\Praticando_Classes_06_Increase_Payment.csproj", "{751961FF-2AB3-4C58-B41C-24BE9E6151C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{751961FF-2AB3-4C58-B41C-24BE9E6151C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{751961FF-2AB3-4C58-B41C-24BE9E6151C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{751961FF-2AB3-4C58-B41C-24BE9E6151C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{751961FF-2AB3-4C58-B41C-24BE9E6151C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D83CC0D8-1E98-4C41-BCDE-47680D139DD2}
+	EndGlobalSection
+EndGlobal

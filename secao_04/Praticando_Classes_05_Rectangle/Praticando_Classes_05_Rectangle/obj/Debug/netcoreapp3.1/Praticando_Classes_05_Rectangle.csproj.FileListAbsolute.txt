@@ -1,0 +1,13 @@
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_04\Praticando_Classes_05_Rectangle\Praticando_Classes_05_Rectangle\bin\Debug\netcoreapp3.1\Praticando_Classes_05_Rectangle.exe
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_04\Praticando_Classes_05_Rectangle\Praticando_Classes_05_Rectangle\bin\Debug\netcoreapp3.1\Praticando_Classes_05_Rectangle.deps.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_04\Praticando_Classes_05_Rectangle\Praticando_Classes_05_Rectangle\bin\Debug\netcoreapp3.1\Praticando_Classes_05_Rectangle.runtimeconfig.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_04\Praticando_Classes_05_Rectangle\Praticando_Classes_05_Rectangle\bin\Debug\netcoreapp3.1\Praticando_Classes_05_Rectangle.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_04\Praticando_Classes_05_Rectangle\Praticando_Classes_05_Rectangle\bin\Debug\netcoreapp3.1\Praticando_Classes_05_Rectangle.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_04\Praticando_Classes_05_Rectangle\Praticando_Classes_05_Rectangle\bin\Debug\netcoreapp3.1\Praticando_Classes_05_Rectangle.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_04\Praticando_Classes_05_Rectangle\Praticando_Classes_05_Rectangle\obj\Debug\netcoreapp3.1\Praticando_Classes_05_Rectangle.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_04\Praticando_Classes_05_Rectangle\Praticando_Classes_05_Rectangle\obj\Debug\netcoreapp3.1\Praticando_Classes_05_Rectangle.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_04\Praticando_Classes_05_Rectangle\Praticando_Classes_05_Rectangle\obj\Debug\netcoreapp3.1\Praticando_Classes_05_Rectangle.AssemblyInfo.cs
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_04\Praticando_Classes_05_Rectangle\Praticando_Classes_05_Rectangle\obj\Debug\netcoreapp3.1\Praticando_Classes_05_Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_04\Praticando_Classes_05_Rectangle\Praticando_Classes_05_Rectangle\obj\Debug\netcoreapp3.1\Praticando_Classes_05_Rectangle.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_04\Praticando_Classes_05_Rectangle\Praticando_Classes_05_Rectangle\obj\Debug\netcoreapp3.1\Praticando_Classes_05_Rectangle.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_04\Praticando_Classes_05_Rectangle\Praticando_Classes_05_Rectangle\obj\Debug\netcoreapp3.1\Praticando_Classes_05_Rectangle.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_05\07_Exercicio_Fixacao\07_Exercicio_Fixacao\obj\Debug\netcoreapp3.1\07_Exercicio_Fixacao.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_05\07_Exercicio_Fixacao\07_Exercicio_Fixacao\obj\Debug\netcoreapp3.1\07_Exercicio_Fixacao.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_05\07_Exercicio_Fixacao\07_Exercicio_Fixacao\obj\Debug\netcoreapp3.1\07_Exercicio_Fixacao.AssemblyInfo.cs
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_05\07_Exercicio_Fixacao\07_Exercicio_Fixacao\obj\Debug\netcoreapp3.1\07_Exercicio_Fixacao.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_05\07_Exercicio_Fixacao\07_Exercicio_Fixacao\bin\Debug\netcoreapp3.1\07_Exercicio_Fixacao.exe
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_05\07_Exercicio_Fixacao\07_Exercicio_Fixacao\bin\Debug\netcoreapp3.1\07_Exercicio_Fixacao.deps.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_05\07_Exercicio_Fixacao\07_Exercicio_Fixacao\bin\Debug\netcoreapp3.1\07_Exercicio_Fixacao.runtimeconfig.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_05\07_Exercicio_Fixacao\07_Exercicio_Fixacao\bin\Debug\netcoreapp3.1\07_Exercicio_Fixacao.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_05\07_Exercicio_Fixacao\07_Exercicio_Fixacao\bin\Debug\netcoreapp3.1\07_Exercicio_Fixacao.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_05\07_Exercicio_Fixacao\07_Exercicio_Fixacao\bin\Debug\netcoreapp3.1\07_Exercicio_Fixacao.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_05\07_Exercicio_Fixacao\07_Exercicio_Fixacao\obj\Debug\netcoreapp3.1\07_Exercicio_Fixacao.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_05\07_Exercicio_Fixacao\07_Exercicio_Fixacao\obj\Debug\netcoreapp3.1\07_Exercicio_Fixacao.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_05\07_Exercicio_Fixacao\07_Exercicio_Fixacao\obj\Debug\netcoreapp3.1\07_Exercicio_Fixacao.genruntimeconfig.cache

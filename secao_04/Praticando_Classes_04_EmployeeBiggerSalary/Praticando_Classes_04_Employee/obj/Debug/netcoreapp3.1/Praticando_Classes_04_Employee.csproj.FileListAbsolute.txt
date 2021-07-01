@@ -1,0 +1,13 @@
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_04\Praticando_Classes_04_Employee\Praticando_Classes_04_Employee\bin\Debug\netcoreapp3.1\Praticando_Classes_04_Employee.exe
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_04\Praticando_Classes_04_Employee\Praticando_Classes_04_Employee\bin\Debug\netcoreapp3.1\Praticando_Classes_04_Employee.deps.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_04\Praticando_Classes_04_Employee\Praticando_Classes_04_Employee\bin\Debug\netcoreapp3.1\Praticando_Classes_04_Employee.runtimeconfig.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_04\Praticando_Classes_04_Employee\Praticando_Classes_04_Employee\bin\Debug\netcoreapp3.1\Praticando_Classes_04_Employee.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_04\Praticando_Classes_04_Employee\Praticando_Classes_04_Employee\bin\Debug\netcoreapp3.1\Praticando_Classes_04_Employee.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_04\Praticando_Classes_04_Employee\Praticando_Classes_04_Employee\bin\Debug\netcoreapp3.1\Praticando_Classes_04_Employee.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_04\Praticando_Classes_04_Employee\Praticando_Classes_04_Employee\obj\Debug\netcoreapp3.1\Praticando_Classes_04_Employee.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_04\Praticando_Classes_04_Employee\Praticando_Classes_04_Employee\obj\Debug\netcoreapp3.1\Praticando_Classes_04_Employee.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_04\Praticando_Classes_04_Employee\Praticando_Classes_04_Employee\obj\Debug\netcoreapp3.1\Praticando_Classes_04_Employee.AssemblyInfo.cs
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_04\Praticando_Classes_04_Employee\Praticando_Classes_04_Employee\obj\Debug\netcoreapp3.1\Praticando_Classes_04_Employee.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_04\Praticando_Classes_04_Employee\Praticando_Classes_04_Employee\obj\Debug\netcoreapp3.1\Praticando_Classes_04_Employee.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_04\Praticando_Classes_04_Employee\Praticando_Classes_04_Employee\obj\Debug\netcoreapp3.1\Praticando_Classes_04_Employee.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_04\Praticando_Classes_04_Employee\Praticando_Classes_04_Employee\obj\Debug\netcoreapp3.1\Praticando_Classes_04_Employee.genruntimeconfig.cache
