@@ -1,0 +1,13 @@
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\05_SortedSet\05_SortedSet\bin\Debug\netcoreapp3.1\05_SortedSet.exe
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\05_SortedSet\05_SortedSet\bin\Debug\netcoreapp3.1\05_SortedSet.deps.json
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\05_SortedSet\05_SortedSet\bin\Debug\netcoreapp3.1\05_SortedSet.runtimeconfig.json
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\05_SortedSet\05_SortedSet\bin\Debug\netcoreapp3.1\05_SortedSet.runtimeconfig.dev.json
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\05_SortedSet\05_SortedSet\bin\Debug\netcoreapp3.1\05_SortedSet.dll
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\05_SortedSet\05_SortedSet\bin\Debug\netcoreapp3.1\05_SortedSet.pdb
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\05_SortedSet\05_SortedSet\obj\Debug\netcoreapp3.1\05_SortedSet.csprojAssemblyReference.cache
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\05_SortedSet\05_SortedSet\obj\Debug\netcoreapp3.1\05_SortedSet.AssemblyInfoInputs.cache
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\05_SortedSet\05_SortedSet\obj\Debug\netcoreapp3.1\05_SortedSet.AssemblyInfo.cs
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\05_SortedSet\05_SortedSet\obj\Debug\netcoreapp3.1\05_SortedSet.csproj.CoreCompileInputs.cache
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\05_SortedSet\05_SortedSet\obj\Debug\netcoreapp3.1\05_SortedSet.dll
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\05_SortedSet\05_SortedSet\obj\Debug\netcoreapp3.1\05_SortedSet.pdb
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\05_SortedSet\05_SortedSet\obj\Debug\netcoreapp3.1\05_SortedSet.genruntimeconfig.cache

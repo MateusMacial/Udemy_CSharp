@@ -1,0 +1,13 @@
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\09_Dictionary\09_Dictionary\bin\Debug\netcoreapp3.1\09_Dictionary.exe
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\09_Dictionary\09_Dictionary\bin\Debug\netcoreapp3.1\09_Dictionary.deps.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\09_Dictionary\09_Dictionary\bin\Debug\netcoreapp3.1\09_Dictionary.runtimeconfig.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\09_Dictionary\09_Dictionary\bin\Debug\netcoreapp3.1\09_Dictionary.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\09_Dictionary\09_Dictionary\bin\Debug\netcoreapp3.1\09_Dictionary.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\09_Dictionary\09_Dictionary\bin\Debug\netcoreapp3.1\09_Dictionary.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\09_Dictionary\09_Dictionary\obj\Debug\netcoreapp3.1\09_Dictionary.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\09_Dictionary\09_Dictionary\obj\Debug\netcoreapp3.1\09_Dictionary.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\09_Dictionary\09_Dictionary\obj\Debug\netcoreapp3.1\09_Dictionary.AssemblyInfo.cs
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\09_Dictionary\09_Dictionary\obj\Debug\netcoreapp3.1\09_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\09_Dictionary\09_Dictionary\obj\Debug\netcoreapp3.1\09_Dictionary.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\09_Dictionary\09_Dictionary\obj\Debug\netcoreapp3.1\09_Dictionary.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\09_Dictionary\09_Dictionary\obj\Debug\netcoreapp3.1\09_Dictionary.genruntimeconfig.cache

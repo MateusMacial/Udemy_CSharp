@@ -1,0 +1,13 @@
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_16\01_Extension_Methods\01_Extension_Methods\bin\Debug\netcoreapp3.1\01_Extension_Methods.exe
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_16\01_Extension_Methods\01_Extension_Methods\bin\Debug\netcoreapp3.1\01_Extension_Methods.deps.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_16\01_Extension_Methods\01_Extension_Methods\bin\Debug\netcoreapp3.1\01_Extension_Methods.runtimeconfig.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_16\01_Extension_Methods\01_Extension_Methods\bin\Debug\netcoreapp3.1\01_Extension_Methods.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_16\01_Extension_Methods\01_Extension_Methods\bin\Debug\netcoreapp3.1\01_Extension_Methods.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_16\01_Extension_Methods\01_Extension_Methods\bin\Debug\netcoreapp3.1\01_Extension_Methods.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_16\01_Extension_Methods\01_Extension_Methods\obj\Debug\netcoreapp3.1\01_Extension_Methods.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_16\01_Extension_Methods\01_Extension_Methods\obj\Debug\netcoreapp3.1\01_Extension_Methods.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_16\01_Extension_Methods\01_Extension_Methods\obj\Debug\netcoreapp3.1\01_Extension_Methods.AssemblyInfo.cs
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_16\01_Extension_Methods\01_Extension_Methods\obj\Debug\netcoreapp3.1\01_Extension_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_16\01_Extension_Methods\01_Extension_Methods\obj\Debug\netcoreapp3.1\01_Extension_Methods.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_16\01_Extension_Methods\01_Extension_Methods\obj\Debug\netcoreapp3.1\01_Extension_Methods.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_16\01_Extension_Methods\01_Extension_Methods\obj\Debug\netcoreapp3.1\01_Extension_Methods.genruntimeconfig.cache

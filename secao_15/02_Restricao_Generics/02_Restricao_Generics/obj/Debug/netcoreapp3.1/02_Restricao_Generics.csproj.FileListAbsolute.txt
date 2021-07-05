@@ -1,0 +1,13 @@
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\02_Restricao_Generics\02_Restricao_Generics\bin\Debug\netcoreapp3.1\02_Restricao_Generics.exe
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\02_Restricao_Generics\02_Restricao_Generics\bin\Debug\netcoreapp3.1\02_Restricao_Generics.deps.json
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\02_Restricao_Generics\02_Restricao_Generics\bin\Debug\netcoreapp3.1\02_Restricao_Generics.runtimeconfig.json
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\02_Restricao_Generics\02_Restricao_Generics\bin\Debug\netcoreapp3.1\02_Restricao_Generics.runtimeconfig.dev.json
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\02_Restricao_Generics\02_Restricao_Generics\bin\Debug\netcoreapp3.1\02_Restricao_Generics.dll
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\02_Restricao_Generics\02_Restricao_Generics\bin\Debug\netcoreapp3.1\02_Restricao_Generics.pdb
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\02_Restricao_Generics\02_Restricao_Generics\obj\Debug\netcoreapp3.1\02_Restricao_Generics.csprojAssemblyReference.cache
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\02_Restricao_Generics\02_Restricao_Generics\obj\Debug\netcoreapp3.1\02_Restricao_Generics.AssemblyInfoInputs.cache
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\02_Restricao_Generics\02_Restricao_Generics\obj\Debug\netcoreapp3.1\02_Restricao_Generics.AssemblyInfo.cs
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\02_Restricao_Generics\02_Restricao_Generics\obj\Debug\netcoreapp3.1\02_Restricao_Generics.csproj.CoreCompileInputs.cache
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\02_Restricao_Generics\02_Restricao_Generics\obj\Debug\netcoreapp3.1\02_Restricao_Generics.dll
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\02_Restricao_Generics\02_Restricao_Generics\obj\Debug\netcoreapp3.1\02_Restricao_Generics.pdb
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\02_Restricao_Generics\02_Restricao_Generics\obj\Debug\netcoreapp3.1\02_Restricao_Generics.genruntimeconfig.cache

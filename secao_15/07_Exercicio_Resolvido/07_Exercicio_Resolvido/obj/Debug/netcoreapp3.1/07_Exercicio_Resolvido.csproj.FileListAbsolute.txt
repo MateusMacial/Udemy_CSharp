@@ -1,0 +1,25 @@
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\07_Exercicio_Resolvido\07_Exercicio_Resolvido\bin\Debug\netcoreapp3.1\07_Exercicio_Resolvido.exe
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\07_Exercicio_Resolvido\07_Exercicio_Resolvido\bin\Debug\netcoreapp3.1\07_Exercicio_Resolvido.deps.json
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\07_Exercicio_Resolvido\07_Exercicio_Resolvido\bin\Debug\netcoreapp3.1\07_Exercicio_Resolvido.runtimeconfig.json
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\07_Exercicio_Resolvido\07_Exercicio_Resolvido\bin\Debug\netcoreapp3.1\07_Exercicio_Resolvido.runtimeconfig.dev.json
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\07_Exercicio_Resolvido\07_Exercicio_Resolvido\bin\Debug\netcoreapp3.1\07_Exercicio_Resolvido.dll
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\07_Exercicio_Resolvido\07_Exercicio_Resolvido\bin\Debug\netcoreapp3.1\07_Exercicio_Resolvido.pdb
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\07_Exercicio_Resolvido\07_Exercicio_Resolvido\obj\Debug\netcoreapp3.1\07_Exercicio_Resolvido.AssemblyInfoInputs.cache
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\07_Exercicio_Resolvido\07_Exercicio_Resolvido\obj\Debug\netcoreapp3.1\07_Exercicio_Resolvido.AssemblyInfo.cs
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\07_Exercicio_Resolvido\07_Exercicio_Resolvido\obj\Debug\netcoreapp3.1\07_Exercicio_Resolvido.csproj.CoreCompileInputs.cache
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\07_Exercicio_Resolvido\07_Exercicio_Resolvido\obj\Debug\netcoreapp3.1\07_Exercicio_Resolvido.dll
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\07_Exercicio_Resolvido\07_Exercicio_Resolvido\obj\Debug\netcoreapp3.1\07_Exercicio_Resolvido.pdb
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\07_Exercicio_Resolvido\07_Exercicio_Resolvido\obj\Debug\netcoreapp3.1\07_Exercicio_Resolvido.genruntimeconfig.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\07_Exercicio_Resolvido\07_Exercicio_Resolvido\bin\Debug\netcoreapp3.1\07_Exercicio_Resolvido.exe
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\07_Exercicio_Resolvido\07_Exercicio_Resolvido\bin\Debug\netcoreapp3.1\07_Exercicio_Resolvido.deps.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\07_Exercicio_Resolvido\07_Exercicio_Resolvido\bin\Debug\netcoreapp3.1\07_Exercicio_Resolvido.runtimeconfig.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\07_Exercicio_Resolvido\07_Exercicio_Resolvido\bin\Debug\netcoreapp3.1\07_Exercicio_Resolvido.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\07_Exercicio_Resolvido\07_Exercicio_Resolvido\bin\Debug\netcoreapp3.1\07_Exercicio_Resolvido.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\07_Exercicio_Resolvido\07_Exercicio_Resolvido\bin\Debug\netcoreapp3.1\07_Exercicio_Resolvido.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\07_Exercicio_Resolvido\07_Exercicio_Resolvido\obj\Debug\netcoreapp3.1\07_Exercicio_Resolvido.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\07_Exercicio_Resolvido\07_Exercicio_Resolvido\obj\Debug\netcoreapp3.1\07_Exercicio_Resolvido.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\07_Exercicio_Resolvido\07_Exercicio_Resolvido\obj\Debug\netcoreapp3.1\07_Exercicio_Resolvido.AssemblyInfo.cs
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\07_Exercicio_Resolvido\07_Exercicio_Resolvido\obj\Debug\netcoreapp3.1\07_Exercicio_Resolvido.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\07_Exercicio_Resolvido\07_Exercicio_Resolvido\obj\Debug\netcoreapp3.1\07_Exercicio_Resolvido.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\07_Exercicio_Resolvido\07_Exercicio_Resolvido\obj\Debug\netcoreapp3.1\07_Exercicio_Resolvido.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\07_Exercicio_Resolvido\07_Exercicio_Resolvido\obj\Debug\netcoreapp3.1\07_Exercicio_Resolvido.genruntimeconfig.cache

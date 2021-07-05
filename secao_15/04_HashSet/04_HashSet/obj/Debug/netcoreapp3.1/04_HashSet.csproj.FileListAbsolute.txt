@@ -1,0 +1,26 @@
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\Course\04_HashSet\bin\Debug\netcoreapp3.1\04_HashSet.exe
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\Course\04_HashSet\bin\Debug\netcoreapp3.1\04_HashSet.deps.json
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\Course\04_HashSet\bin\Debug\netcoreapp3.1\04_HashSet.runtimeconfig.json
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\Course\04_HashSet\bin\Debug\netcoreapp3.1\04_HashSet.runtimeconfig.dev.json
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\Course\04_HashSet\bin\Debug\netcoreapp3.1\04_HashSet.dll
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\Course\04_HashSet\bin\Debug\netcoreapp3.1\04_HashSet.pdb
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\Course\04_HashSet\obj\Debug\netcoreapp3.1\04_HashSet.csprojAssemblyReference.cache
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\Course\04_HashSet\obj\Debug\netcoreapp3.1\04_HashSet.AssemblyInfoInputs.cache
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\Course\04_HashSet\obj\Debug\netcoreapp3.1\04_HashSet.AssemblyInfo.cs
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\Course\04_HashSet\obj\Debug\netcoreapp3.1\04_HashSet.csproj.CoreCompileInputs.cache
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\Course\04_HashSet\obj\Debug\netcoreapp3.1\04_HashSet.dll
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\Course\04_HashSet\obj\Debug\netcoreapp3.1\04_HashSet.pdb
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\Course\04_HashSet\obj\Debug\netcoreapp3.1\04_HashSet.genruntimeconfig.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\04_HashSet\04_HashSet\bin\Debug\netcoreapp3.1\04_HashSet.exe
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\04_HashSet\04_HashSet\bin\Debug\netcoreapp3.1\04_HashSet.deps.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\04_HashSet\04_HashSet\bin\Debug\netcoreapp3.1\04_HashSet.runtimeconfig.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\04_HashSet\04_HashSet\bin\Debug\netcoreapp3.1\04_HashSet.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\04_HashSet\04_HashSet\bin\Debug\netcoreapp3.1\04_HashSet.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\04_HashSet\04_HashSet\bin\Debug\netcoreapp3.1\04_HashSet.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\04_HashSet\04_HashSet\obj\Debug\netcoreapp3.1\04_HashSet.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\04_HashSet\04_HashSet\obj\Debug\netcoreapp3.1\04_HashSet.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\04_HashSet\04_HashSet\obj\Debug\netcoreapp3.1\04_HashSet.AssemblyInfo.cs
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\04_HashSet\04_HashSet\obj\Debug\netcoreapp3.1\04_HashSet.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\04_HashSet\04_HashSet\obj\Debug\netcoreapp3.1\04_HashSet.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\04_HashSet\04_HashSet\obj\Debug\netcoreapp3.1\04_HashSet.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\04_HashSet\04_HashSet\obj\Debug\netcoreapp3.1\04_HashSet.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\01_Generics\01_Generics\bin\Debug\netcoreapp3.1\01_Generics.exe
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\01_Generics\01_Generics\bin\Debug\netcoreapp3.1\01_Generics.deps.json
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\01_Generics\01_Generics\bin\Debug\netcoreapp3.1\01_Generics.runtimeconfig.json
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\01_Generics\01_Generics\bin\Debug\netcoreapp3.1\01_Generics.runtimeconfig.dev.json
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\01_Generics\01_Generics\bin\Debug\netcoreapp3.1\01_Generics.dll
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\01_Generics\01_Generics\bin\Debug\netcoreapp3.1\01_Generics.pdb
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\01_Generics\01_Generics\obj\Debug\netcoreapp3.1\01_Generics.csprojAssemblyReference.cache
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\01_Generics\01_Generics\obj\Debug\netcoreapp3.1\01_Generics.AssemblyInfoInputs.cache
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\01_Generics\01_Generics\obj\Debug\netcoreapp3.1\01_Generics.AssemblyInfo.cs
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\01_Generics\01_Generics\obj\Debug\netcoreapp3.1\01_Generics.csproj.CoreCompileInputs.cache
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\01_Generics\01_Generics\obj\Debug\netcoreapp3.1\01_Generics.dll
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\01_Generics\01_Generics\obj\Debug\netcoreapp3.1\01_Generics.pdb
+C:\Source\Plano de treinamento Mateus Macial\C#\secao_15\01_Generics\01_Generics\obj\Debug\netcoreapp3.1\01_Generics.genruntimeconfig.cache

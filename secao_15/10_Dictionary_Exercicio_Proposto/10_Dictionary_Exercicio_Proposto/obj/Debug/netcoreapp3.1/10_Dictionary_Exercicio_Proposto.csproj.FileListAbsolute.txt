@@ -1,0 +1,13 @@
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\10_Dictionary_Exercicio_Proposto\10_Dictionary_Exercicio_Proposto\bin\Debug\netcoreapp3.1\10_Dictionary_Exercicio_Proposto.exe
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\10_Dictionary_Exercicio_Proposto\10_Dictionary_Exercicio_Proposto\bin\Debug\netcoreapp3.1\10_Dictionary_Exercicio_Proposto.deps.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\10_Dictionary_Exercicio_Proposto\10_Dictionary_Exercicio_Proposto\bin\Debug\netcoreapp3.1\10_Dictionary_Exercicio_Proposto.runtimeconfig.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\10_Dictionary_Exercicio_Proposto\10_Dictionary_Exercicio_Proposto\bin\Debug\netcoreapp3.1\10_Dictionary_Exercicio_Proposto.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\10_Dictionary_Exercicio_Proposto\10_Dictionary_Exercicio_Proposto\bin\Debug\netcoreapp3.1\10_Dictionary_Exercicio_Proposto.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\10_Dictionary_Exercicio_Proposto\10_Dictionary_Exercicio_Proposto\bin\Debug\netcoreapp3.1\10_Dictionary_Exercicio_Proposto.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\10_Dictionary_Exercicio_Proposto\10_Dictionary_Exercicio_Proposto\obj\Debug\netcoreapp3.1\10_Dictionary_Exercicio_Proposto.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\10_Dictionary_Exercicio_Proposto\10_Dictionary_Exercicio_Proposto\obj\Debug\netcoreapp3.1\10_Dictionary_Exercicio_Proposto.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\10_Dictionary_Exercicio_Proposto\10_Dictionary_Exercicio_Proposto\obj\Debug\netcoreapp3.1\10_Dictionary_Exercicio_Proposto.AssemblyInfo.cs
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\10_Dictionary_Exercicio_Proposto\10_Dictionary_Exercicio_Proposto\obj\Debug\netcoreapp3.1\10_Dictionary_Exercicio_Proposto.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\10_Dictionary_Exercicio_Proposto\10_Dictionary_Exercicio_Proposto\obj\Debug\netcoreapp3.1\10_Dictionary_Exercicio_Proposto.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\10_Dictionary_Exercicio_Proposto\10_Dictionary_Exercicio_Proposto\obj\Debug\netcoreapp3.1\10_Dictionary_Exercicio_Proposto.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_15\10_Dictionary_Exercicio_Proposto\10_Dictionary_Exercicio_Proposto\obj\Debug\netcoreapp3.1\10_Dictionary_Exercicio_Proposto.genruntimeconfig.cache
