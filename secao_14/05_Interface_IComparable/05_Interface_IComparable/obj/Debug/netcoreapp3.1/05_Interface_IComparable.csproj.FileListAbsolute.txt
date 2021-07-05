@@ -1,0 +1,13 @@
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_14\05_Interface_IComparable\05_Interface_IComparable\obj\Debug\netcoreapp3.1\05_Interface_IComparable.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_14\05_Interface_IComparable\05_Interface_IComparable\obj\Debug\netcoreapp3.1\05_Interface_IComparable.AssemblyInfo.cs
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_14\05_Interface_IComparable\05_Interface_IComparable\obj\Debug\netcoreapp3.1\05_Interface_IComparable.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_14\05_Interface_IComparable\05_Interface_IComparable\bin\Debug\netcoreapp3.1\05_Interface_IComparable.exe
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_14\05_Interface_IComparable\05_Interface_IComparable\bin\Debug\netcoreapp3.1\05_Interface_IComparable.deps.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_14\05_Interface_IComparable\05_Interface_IComparable\bin\Debug\netcoreapp3.1\05_Interface_IComparable.runtimeconfig.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_14\05_Interface_IComparable\05_Interface_IComparable\bin\Debug\netcoreapp3.1\05_Interface_IComparable.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_14\05_Interface_IComparable\05_Interface_IComparable\bin\Debug\netcoreapp3.1\05_Interface_IComparable.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_14\05_Interface_IComparable\05_Interface_IComparable\bin\Debug\netcoreapp3.1\05_Interface_IComparable.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_14\05_Interface_IComparable\05_Interface_IComparable\obj\Debug\netcoreapp3.1\05_Interface_IComparable.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_14\05_Interface_IComparable\05_Interface_IComparable\obj\Debug\netcoreapp3.1\05_Interface_IComparable.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_14\05_Interface_IComparable\05_Interface_IComparable\obj\Debug\netcoreapp3.1\05_Interface_IComparable.genruntimeconfig.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_14\05_Interface_IComparable\05_Interface_IComparable\obj\Debug\netcoreapp3.1\05_Interface_IComparable.csproj.AssemblyReference.cache

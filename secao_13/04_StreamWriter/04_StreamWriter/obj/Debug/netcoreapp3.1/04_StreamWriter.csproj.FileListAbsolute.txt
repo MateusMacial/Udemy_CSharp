@@ -1,0 +1,12 @@
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\04_StreamWriter\04_StreamWriter\bin\Debug\netcoreapp3.1\04_StreamWriter.exe
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\04_StreamWriter\04_StreamWriter\bin\Debug\netcoreapp3.1\04_StreamWriter.deps.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\04_StreamWriter\04_StreamWriter\bin\Debug\netcoreapp3.1\04_StreamWriter.runtimeconfig.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\04_StreamWriter\04_StreamWriter\bin\Debug\netcoreapp3.1\04_StreamWriter.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\04_StreamWriter\04_StreamWriter\bin\Debug\netcoreapp3.1\04_StreamWriter.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\04_StreamWriter\04_StreamWriter\bin\Debug\netcoreapp3.1\04_StreamWriter.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\04_StreamWriter\04_StreamWriter\obj\Debug\netcoreapp3.1\04_StreamWriter.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\04_StreamWriter\04_StreamWriter\obj\Debug\netcoreapp3.1\04_StreamWriter.AssemblyInfo.cs
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\04_StreamWriter\04_StreamWriter\obj\Debug\netcoreapp3.1\04_StreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\04_StreamWriter\04_StreamWriter\obj\Debug\netcoreapp3.1\04_StreamWriter.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\04_StreamWriter\04_StreamWriter\obj\Debug\netcoreapp3.1\04_StreamWriter.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\04_StreamWriter\04_StreamWriter\obj\Debug\netcoreapp3.1\04_StreamWriter.genruntimeconfig.cache

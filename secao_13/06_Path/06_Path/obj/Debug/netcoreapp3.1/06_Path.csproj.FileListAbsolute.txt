@@ -1,0 +1,12 @@
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\06_Path\06_Path\bin\Debug\netcoreapp3.1\06_Path.exe
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\06_Path\06_Path\bin\Debug\netcoreapp3.1\06_Path.deps.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\06_Path\06_Path\bin\Debug\netcoreapp3.1\06_Path.runtimeconfig.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\06_Path\06_Path\bin\Debug\netcoreapp3.1\06_Path.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\06_Path\06_Path\bin\Debug\netcoreapp3.1\06_Path.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\06_Path\06_Path\bin\Debug\netcoreapp3.1\06_Path.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\06_Path\06_Path\obj\Debug\netcoreapp3.1\06_Path.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\06_Path\06_Path\obj\Debug\netcoreapp3.1\06_Path.AssemblyInfo.cs
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\06_Path\06_Path\obj\Debug\netcoreapp3.1\06_Path.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\06_Path\06_Path\obj\Debug\netcoreapp3.1\06_Path.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\06_Path\06_Path\obj\Debug\netcoreapp3.1\06_Path.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\06_Path\06_Path\obj\Debug\netcoreapp3.1\06_Path.genruntimeconfig.cache

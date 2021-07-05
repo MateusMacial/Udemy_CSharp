@@ -1,0 +1,12 @@
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\05_Directory_DirectoryInfo\05_Directory_DirectoryInfo\bin\Debug\netcoreapp3.1\05_Directory_DirectoryInfo.exe
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\05_Directory_DirectoryInfo\05_Directory_DirectoryInfo\bin\Debug\netcoreapp3.1\05_Directory_DirectoryInfo.deps.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\05_Directory_DirectoryInfo\05_Directory_DirectoryInfo\bin\Debug\netcoreapp3.1\05_Directory_DirectoryInfo.runtimeconfig.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\05_Directory_DirectoryInfo\05_Directory_DirectoryInfo\bin\Debug\netcoreapp3.1\05_Directory_DirectoryInfo.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\05_Directory_DirectoryInfo\05_Directory_DirectoryInfo\bin\Debug\netcoreapp3.1\05_Directory_DirectoryInfo.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\05_Directory_DirectoryInfo\05_Directory_DirectoryInfo\bin\Debug\netcoreapp3.1\05_Directory_DirectoryInfo.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\05_Directory_DirectoryInfo\05_Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\05_Directory_DirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\05_Directory_DirectoryInfo\05_Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\05_Directory_DirectoryInfo.AssemblyInfo.cs
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\05_Directory_DirectoryInfo\05_Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\05_Directory_DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\05_Directory_DirectoryInfo\05_Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\05_Directory_DirectoryInfo.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\05_Directory_DirectoryInfo\05_Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\05_Directory_DirectoryInfo.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\05_Directory_DirectoryInfo\05_Directory_DirectoryInfo\obj\Debug\netcoreapp3.1\05_Directory_DirectoryInfo.genruntimeconfig.cache

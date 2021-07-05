@@ -1,0 +1,13 @@
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_14\04_HerancaMultipla\04_HerancaMultipla\bin\Debug\netcoreapp3.1\04_HerancaMultipla.exe
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_14\04_HerancaMultipla\04_HerancaMultipla\bin\Debug\netcoreapp3.1\04_HerancaMultipla.deps.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_14\04_HerancaMultipla\04_HerancaMultipla\bin\Debug\netcoreapp3.1\04_HerancaMultipla.runtimeconfig.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_14\04_HerancaMultipla\04_HerancaMultipla\bin\Debug\netcoreapp3.1\04_HerancaMultipla.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_14\04_HerancaMultipla\04_HerancaMultipla\bin\Debug\netcoreapp3.1\04_HerancaMultipla.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_14\04_HerancaMultipla\04_HerancaMultipla\bin\Debug\netcoreapp3.1\04_HerancaMultipla.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_14\04_HerancaMultipla\04_HerancaMultipla\obj\Debug\netcoreapp3.1\04_HerancaMultipla.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_14\04_HerancaMultipla\04_HerancaMultipla\obj\Debug\netcoreapp3.1\04_HerancaMultipla.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_14\04_HerancaMultipla\04_HerancaMultipla\obj\Debug\netcoreapp3.1\04_HerancaMultipla.AssemblyInfo.cs
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_14\04_HerancaMultipla\04_HerancaMultipla\obj\Debug\netcoreapp3.1\04_HerancaMultipla.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_14\04_HerancaMultipla\04_HerancaMultipla\obj\Debug\netcoreapp3.1\04_HerancaMultipla.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_14\04_HerancaMultipla\04_HerancaMultipla\obj\Debug\netcoreapp3.1\04_HerancaMultipla.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_14\04_HerancaMultipla\04_HerancaMultipla\obj\Debug\netcoreapp3.1\04_HerancaMultipla.genruntimeconfig.cache

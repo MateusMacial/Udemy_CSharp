@@ -1,0 +1,13 @@
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\01_File_FileInfo_IOExeption\01_File_FileInfo_IOExeption\bin\Debug\netcoreapp3.1\01_File_FileInfo_IOExeption.exe
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\01_File_FileInfo_IOExeption\01_File_FileInfo_IOExeption\bin\Debug\netcoreapp3.1\01_File_FileInfo_IOExeption.deps.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\01_File_FileInfo_IOExeption\01_File_FileInfo_IOExeption\bin\Debug\netcoreapp3.1\01_File_FileInfo_IOExeption.runtimeconfig.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\01_File_FileInfo_IOExeption\01_File_FileInfo_IOExeption\bin\Debug\netcoreapp3.1\01_File_FileInfo_IOExeption.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\01_File_FileInfo_IOExeption\01_File_FileInfo_IOExeption\bin\Debug\netcoreapp3.1\01_File_FileInfo_IOExeption.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\01_File_FileInfo_IOExeption\01_File_FileInfo_IOExeption\bin\Debug\netcoreapp3.1\01_File_FileInfo_IOExeption.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\01_File_FileInfo_IOExeption\01_File_FileInfo_IOExeption\obj\Debug\netcoreapp3.1\01_File_FileInfo_IOExeption.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\01_File_FileInfo_IOExeption\01_File_FileInfo_IOExeption\obj\Debug\netcoreapp3.1\01_File_FileInfo_IOExeption.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\01_File_FileInfo_IOExeption\01_File_FileInfo_IOExeption\obj\Debug\netcoreapp3.1\01_File_FileInfo_IOExeption.AssemblyInfo.cs
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\01_File_FileInfo_IOExeption\01_File_FileInfo_IOExeption\obj\Debug\netcoreapp3.1\01_File_FileInfo_IOExeption.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\01_File_FileInfo_IOExeption\01_File_FileInfo_IOExeption\obj\Debug\netcoreapp3.1\01_File_FileInfo_IOExeption.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\01_File_FileInfo_IOExeption\01_File_FileInfo_IOExeption\obj\Debug\netcoreapp3.1\01_File_FileInfo_IOExeption.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_13\01_File_FileInfo_IOExeption\01_File_FileInfo_IOExeption\obj\Debug\netcoreapp3.1\01_File_FileInfo_IOExeption.genruntimeconfig.cache
