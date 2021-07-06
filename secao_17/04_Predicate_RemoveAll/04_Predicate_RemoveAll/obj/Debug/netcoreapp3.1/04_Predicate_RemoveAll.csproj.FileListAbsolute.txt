@@ -1,0 +1,13 @@
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\04_Predicate_RemoveAll\04_Predicate_RemoveAll\bin\Debug\netcoreapp3.1\04_Predicate_RemoveAll.exe
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\04_Predicate_RemoveAll\04_Predicate_RemoveAll\bin\Debug\netcoreapp3.1\04_Predicate_RemoveAll.deps.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\04_Predicate_RemoveAll\04_Predicate_RemoveAll\bin\Debug\netcoreapp3.1\04_Predicate_RemoveAll.runtimeconfig.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\04_Predicate_RemoveAll\04_Predicate_RemoveAll\bin\Debug\netcoreapp3.1\04_Predicate_RemoveAll.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\04_Predicate_RemoveAll\04_Predicate_RemoveAll\bin\Debug\netcoreapp3.1\04_Predicate_RemoveAll.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\04_Predicate_RemoveAll\04_Predicate_RemoveAll\bin\Debug\netcoreapp3.1\04_Predicate_RemoveAll.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\04_Predicate_RemoveAll\04_Predicate_RemoveAll\obj\Debug\netcoreapp3.1\04_Predicate_RemoveAll.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\04_Predicate_RemoveAll\04_Predicate_RemoveAll\obj\Debug\netcoreapp3.1\04_Predicate_RemoveAll.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\04_Predicate_RemoveAll\04_Predicate_RemoveAll\obj\Debug\netcoreapp3.1\04_Predicate_RemoveAll.AssemblyInfo.cs
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\04_Predicate_RemoveAll\04_Predicate_RemoveAll\obj\Debug\netcoreapp3.1\04_Predicate_RemoveAll.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\04_Predicate_RemoveAll\04_Predicate_RemoveAll\obj\Debug\netcoreapp3.1\04_Predicate_RemoveAll.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\04_Predicate_RemoveAll\04_Predicate_RemoveAll\obj\Debug\netcoreapp3.1\04_Predicate_RemoveAll.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\04_Predicate_RemoveAll\04_Predicate_RemoveAll\obj\Debug\netcoreapp3.1\04_Predicate_RemoveAll.genruntimeconfig.cache

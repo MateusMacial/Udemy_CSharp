@@ -1,0 +1,12 @@
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\03_Multicast_Delegates\03_Multicast_Delegates\obj\Debug\netcoreapp3.1\03_Multicast_Delegates.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\03_Multicast_Delegates\03_Multicast_Delegates\obj\Debug\netcoreapp3.1\03_Multicast_Delegates.AssemblyInfo.cs
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\03_Multicast_Delegates\03_Multicast_Delegates\obj\Debug\netcoreapp3.1\03_Multicast_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\03_Multicast_Delegates\03_Multicast_Delegates\bin\Debug\netcoreapp3.1\03_Multicast_Delegates.exe
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\03_Multicast_Delegates\03_Multicast_Delegates\bin\Debug\netcoreapp3.1\03_Multicast_Delegates.deps.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\03_Multicast_Delegates\03_Multicast_Delegates\bin\Debug\netcoreapp3.1\03_Multicast_Delegates.runtimeconfig.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\03_Multicast_Delegates\03_Multicast_Delegates\bin\Debug\netcoreapp3.1\03_Multicast_Delegates.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\03_Multicast_Delegates\03_Multicast_Delegates\bin\Debug\netcoreapp3.1\03_Multicast_Delegates.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\03_Multicast_Delegates\03_Multicast_Delegates\bin\Debug\netcoreapp3.1\03_Multicast_Delegates.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\03_Multicast_Delegates\03_Multicast_Delegates\obj\Debug\netcoreapp3.1\03_Multicast_Delegates.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\03_Multicast_Delegates\03_Multicast_Delegates\obj\Debug\netcoreapp3.1\03_Multicast_Delegates.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\03_Multicast_Delegates\03_Multicast_Delegates\obj\Debug\netcoreapp3.1\03_Multicast_Delegates.genruntimeconfig.cache
