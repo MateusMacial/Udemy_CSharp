@@ -1,0 +1,13 @@
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\08_LINQ_Lambda\08_LINQ_Lambda\bin\Debug\netcoreapp3.1\08_LINQ_Lambda.exe
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\08_LINQ_Lambda\08_LINQ_Lambda\bin\Debug\netcoreapp3.1\08_LINQ_Lambda.deps.json
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\08_LINQ_Lambda\08_LINQ_Lambda\bin\Debug\netcoreapp3.1\08_LINQ_Lambda.runtimeconfig.json
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\08_LINQ_Lambda\08_LINQ_Lambda\bin\Debug\netcoreapp3.1\08_LINQ_Lambda.runtimeconfig.dev.json
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\08_LINQ_Lambda\08_LINQ_Lambda\bin\Debug\netcoreapp3.1\08_LINQ_Lambda.dll
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\08_LINQ_Lambda\08_LINQ_Lambda\bin\Debug\netcoreapp3.1\08_LINQ_Lambda.pdb
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\08_LINQ_Lambda\08_LINQ_Lambda\obj\Debug\netcoreapp3.1\08_LINQ_Lambda.csprojAssemblyReference.cache
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\08_LINQ_Lambda\08_LINQ_Lambda\obj\Debug\netcoreapp3.1\08_LINQ_Lambda.AssemblyInfoInputs.cache
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\08_LINQ_Lambda\08_LINQ_Lambda\obj\Debug\netcoreapp3.1\08_LINQ_Lambda.AssemblyInfo.cs
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\08_LINQ_Lambda\08_LINQ_Lambda\obj\Debug\netcoreapp3.1\08_LINQ_Lambda.csproj.CoreCompileInputs.cache
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\08_LINQ_Lambda\08_LINQ_Lambda\obj\Debug\netcoreapp3.1\08_LINQ_Lambda.dll
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\08_LINQ_Lambda\08_LINQ_Lambda\obj\Debug\netcoreapp3.1\08_LINQ_Lambda.pdb
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\08_LINQ_Lambda\08_LINQ_Lambda\obj\Debug\netcoreapp3.1\08_LINQ_Lambda.genruntimeconfig.cache

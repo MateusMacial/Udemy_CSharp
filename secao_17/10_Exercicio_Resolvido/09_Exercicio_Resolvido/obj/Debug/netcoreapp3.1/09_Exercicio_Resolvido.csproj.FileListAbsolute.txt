@@ -1,0 +1,13 @@
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\09_Exercicio_Resolvido\09_Exercicio_Resolvido\bin\Debug\netcoreapp3.1\09_Exercicio_Resolvido.exe
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\09_Exercicio_Resolvido\09_Exercicio_Resolvido\bin\Debug\netcoreapp3.1\09_Exercicio_Resolvido.deps.json
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\09_Exercicio_Resolvido\09_Exercicio_Resolvido\bin\Debug\netcoreapp3.1\09_Exercicio_Resolvido.runtimeconfig.json
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\09_Exercicio_Resolvido\09_Exercicio_Resolvido\bin\Debug\netcoreapp3.1\09_Exercicio_Resolvido.runtimeconfig.dev.json
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\09_Exercicio_Resolvido\09_Exercicio_Resolvido\bin\Debug\netcoreapp3.1\09_Exercicio_Resolvido.dll
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\09_Exercicio_Resolvido\09_Exercicio_Resolvido\bin\Debug\netcoreapp3.1\09_Exercicio_Resolvido.pdb
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\09_Exercicio_Resolvido\09_Exercicio_Resolvido\obj\Debug\netcoreapp3.1\09_Exercicio_Resolvido.csprojAssemblyReference.cache
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\09_Exercicio_Resolvido\09_Exercicio_Resolvido\obj\Debug\netcoreapp3.1\09_Exercicio_Resolvido.AssemblyInfoInputs.cache
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\09_Exercicio_Resolvido\09_Exercicio_Resolvido\obj\Debug\netcoreapp3.1\09_Exercicio_Resolvido.AssemblyInfo.cs
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\09_Exercicio_Resolvido\09_Exercicio_Resolvido\obj\Debug\netcoreapp3.1\09_Exercicio_Resolvido.csproj.CoreCompileInputs.cache
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\09_Exercicio_Resolvido\09_Exercicio_Resolvido\obj\Debug\netcoreapp3.1\09_Exercicio_Resolvido.dll
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\09_Exercicio_Resolvido\09_Exercicio_Resolvido\obj\Debug\netcoreapp3.1\09_Exercicio_Resolvido.pdb
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\09_Exercicio_Resolvido\09_Exercicio_Resolvido\obj\Debug\netcoreapp3.1\09_Exercicio_Resolvido.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\10_Exercicio_Proposto\10_Exercicio_Proposto\bin\Debug\netcoreapp3.1\10_Exercicio_Proposto.exe
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\10_Exercicio_Proposto\10_Exercicio_Proposto\bin\Debug\netcoreapp3.1\10_Exercicio_Proposto.deps.json
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\10_Exercicio_Proposto\10_Exercicio_Proposto\bin\Debug\netcoreapp3.1\10_Exercicio_Proposto.runtimeconfig.json
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\10_Exercicio_Proposto\10_Exercicio_Proposto\bin\Debug\netcoreapp3.1\10_Exercicio_Proposto.runtimeconfig.dev.json
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\10_Exercicio_Proposto\10_Exercicio_Proposto\bin\Debug\netcoreapp3.1\10_Exercicio_Proposto.dll
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\10_Exercicio_Proposto\10_Exercicio_Proposto\bin\Debug\netcoreapp3.1\10_Exercicio_Proposto.pdb
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\10_Exercicio_Proposto\10_Exercicio_Proposto\obj\Debug\netcoreapp3.1\10_Exercicio_Proposto.csprojAssemblyReference.cache
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\10_Exercicio_Proposto\10_Exercicio_Proposto\obj\Debug\netcoreapp3.1\10_Exercicio_Proposto.AssemblyInfoInputs.cache
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\10_Exercicio_Proposto\10_Exercicio_Proposto\obj\Debug\netcoreapp3.1\10_Exercicio_Proposto.AssemblyInfo.cs
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\10_Exercicio_Proposto\10_Exercicio_Proposto\obj\Debug\netcoreapp3.1\10_Exercicio_Proposto.csproj.CoreCompileInputs.cache
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\10_Exercicio_Proposto\10_Exercicio_Proposto\obj\Debug\netcoreapp3.1\10_Exercicio_Proposto.dll
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\10_Exercicio_Proposto\10_Exercicio_Proposto\obj\Debug\netcoreapp3.1\10_Exercicio_Proposto.pdb
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_17\10_Exercicio_Proposto\10_Exercicio_Proposto\obj\Debug\netcoreapp3.1\10_Exercicio_Proposto.genruntimeconfig.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\11_Exercicio_Proposto\10_Exercicio_Proposto\bin\Debug\netcoreapp3.1\10_Exercicio_Proposto.exe
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\11_Exercicio_Proposto\10_Exercicio_Proposto\bin\Debug\netcoreapp3.1\10_Exercicio_Proposto.deps.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\11_Exercicio_Proposto\10_Exercicio_Proposto\bin\Debug\netcoreapp3.1\10_Exercicio_Proposto.runtimeconfig.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\11_Exercicio_Proposto\10_Exercicio_Proposto\bin\Debug\netcoreapp3.1\10_Exercicio_Proposto.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\11_Exercicio_Proposto\10_Exercicio_Proposto\bin\Debug\netcoreapp3.1\10_Exercicio_Proposto.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\11_Exercicio_Proposto\10_Exercicio_Proposto\bin\Debug\netcoreapp3.1\10_Exercicio_Proposto.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\11_Exercicio_Proposto\10_Exercicio_Proposto\obj\Debug\netcoreapp3.1\10_Exercicio_Proposto.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\11_Exercicio_Proposto\10_Exercicio_Proposto\obj\Debug\netcoreapp3.1\10_Exercicio_Proposto.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\11_Exercicio_Proposto\10_Exercicio_Proposto\obj\Debug\netcoreapp3.1\10_Exercicio_Proposto.AssemblyInfo.cs
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\11_Exercicio_Proposto\10_Exercicio_Proposto\obj\Debug\netcoreapp3.1\10_Exercicio_Proposto.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\11_Exercicio_Proposto\10_Exercicio_Proposto\obj\Debug\netcoreapp3.1\10_Exercicio_Proposto.dll
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\11_Exercicio_Proposto\10_Exercicio_Proposto\obj\Debug\netcoreapp3.1\10_Exercicio_Proposto.pdb
+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_17\11_Exercicio_Proposto\10_Exercicio_Proposto\obj\Debug\netcoreapp3.1\10_Exercicio_Proposto.genruntimeconfig.cache
